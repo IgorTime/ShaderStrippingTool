@@ -23,5 +23,4 @@ MonoBehaviour:
   - Hidden/TerrainEngine/Details/Vertexlit
   manualHandledList: []
   playerLog: {fileID: 4900000, guid: 3311396954c43af41a080e5e5f65505a, type: 3}
-  generateOutputShaderVariantCollection: 1
   generateReport: 1
