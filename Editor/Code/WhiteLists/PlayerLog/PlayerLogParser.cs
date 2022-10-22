@@ -78,7 +78,7 @@ namespace ShaderStripping
         {
             lineNumber++;
             line = reader.ReadLine();
-            return !string.IsNullOrEmpty(line);
+            return line != null;
         }
 
         private static bool TryParseLine(
