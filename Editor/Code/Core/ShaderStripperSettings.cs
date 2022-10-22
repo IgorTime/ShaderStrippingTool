@@ -48,9 +48,6 @@ namespace ShaderStripping
         [SerializeField] private TextAsset playerLog = default;
 
         [Header("Logging:")]
-        [SerializeField]
-        private bool generateOutputShaderVariantCollection = true;
-
         [SerializeField] private bool generateReport = true;
 
         public bool StripAssetBundles => stripAssetBundles;
@@ -64,8 +61,6 @@ namespace ShaderStripping
 
         public HashSet<string> AlwaysExcluded =>
             GenerateShaderNameSet(alwaysExcluded, alwaysExcludedByName);
-
-        public bool GenerateOutputShaderVariantCollection => generateOutputShaderVariantCollection;
 
         public bool GenerateReport => generateReport;
 

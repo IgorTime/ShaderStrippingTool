@@ -1,52 +1,42 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
-using UnityEditor;
 using UnityEngine;
 
 namespace ShaderStripping
 {
     public class StrippingReport
     {
-        private readonly SortedSet<string> processedShaders;
-        private readonly Dictionary<string, int> passedShaders;
-        private readonly Dictionary<string, int> strippedShaders;
+        private const string REPORT_DIRECTORY_NAME = "ShaderStrippingReports";
+        
+        private readonly string directoryPath;
         private readonly bool isPlayerBuild;
+        private readonly Dictionary<string, int> passedShaders;
+
+        private readonly SortedSet<string> processedShaders;
         private readonly string reportName;
-        private readonly string reportPath;
+        private readonly Dictionary<string, int> strippedShaders;
 
         public StrippingReport(
             string reportName,
-            string reportPath,
             bool isPlayerBuild)
         {
             this.reportName = reportName;
-            this.reportPath = reportPath;
             this.isPlayerBuild = isPlayerBuild;
 
             processedShaders = new SortedSet<string>();
             passedShaders = new Dictionary<string, int>();
             strippedShaders = new Dictionary<string, int>();
+            directoryPath = Application.dataPath.Replace("Assets", REPORT_DIRECTORY_NAME);
         }
 
-        public static void CreateReportFolderIfNotExist(string reportPath)
+        private void CreateReportFolderIfNotExist()
         {
-            if (!reportPath.Contains("Assets"))
+            if (!Directory.Exists(directoryPath))
             {
-                reportPath = $"Assets/{reportPath}";
+                Directory.CreateDirectory(directoryPath);
             }
-            
-            if (AssetDatabase.IsValidFolder(reportPath))
-            {
-                return;
-            }
-
-            var lastSlashIndex = reportPath.LastIndexOf("/", StringComparison.Ordinal);
-            var parentFolder = reportPath.Substring(0, lastSlashIndex);
-            var newFolderName = reportPath.Substring(lastSlashIndex + 1);
-            AssetDatabase.CreateFolder(parentFolder, newFolderName);
         }
 
         public void RegisterShaderInReport(string shaderName)
@@ -69,26 +59,32 @@ namespace ShaderStripping
 
         public void WriteReportOnDisc()
         {
-            CreateReportFolderIfNotExist(reportPath);
-            
-            var filePath = GetReportFilePath();
+            CreateReportFolderIfNotExist();
+            var report = GetReportString();
+            WriteReport(report);
+        }
+
+        private void WriteReport(string report)
+        {
+            var fileName = GetReportFileName();
+            var path = $"{directoryPath}/{fileName}";
+            File.WriteAllText(path, report);
+            Debug.Log($"Stripping report stored in: {path}");
+        }
+
+        private string GetReportString()
+        {
             var strBuilder = new StringBuilder();
             FillHeader(strBuilder);
             FillShaderVariants(strBuilder);
             FillSummary(strBuilder);
-
-            var path = $"{Application.dataPath}/{filePath}";
-            File.WriteAllText(path, strBuilder.ToString());
-
-            AssetDatabase.Refresh();
+            return strBuilder.ToString();
         }
 
-        private string GetReportFilePath()
-        {
-            return isPlayerBuild
-                ? $"{reportPath}/PlayerStrippingReport.txt"
-                : $"{reportPath}/AssetBundlesStrippingReport.txt";
-        }
+        private string GetReportFileName() =>
+            isPlayerBuild
+                ? "PlayerStrippingReport.txt"
+                : "AssetBundlesStrippingReport.txt";
 
         private void FillHeader(StringBuilder strBuilder)
         {
@@ -97,7 +93,7 @@ namespace ShaderStripping
             var buildType = isPlayerBuild
                 ? "Player build"
                 : "AssetBundles build";
-            
+
             strBuilder.AppendLine($"Shaders stripping during {buildType}");
         }
 

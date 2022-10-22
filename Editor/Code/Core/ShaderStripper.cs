@@ -20,8 +20,6 @@ namespace ShaderStripping
         ScriptableObject,
         IPreprocessShaders
     {
-        public const string REPORTS_PATH = "ShaderStripping/Reports";
-
         // To set Settings use editor "default reference" feature
         [SerializeField] private ShaderStripperSettings settings = default;
 
@@ -140,7 +138,6 @@ namespace ShaderStripping
         {
             strippingReport = new StrippingReport(
                 nameof(ShaderStripper),
-                REPORTS_PATH,
                 PlayerBuildHelper.IsPlayerBuild);
 
             EditorApplication.update += WriteReport;

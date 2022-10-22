@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2dbe1591528448a1b3fce6dc3b2526ff, type: 3}
   m_Name: ShaderStripperSettings
   m_EditorClassIdentifier: 
-  stripAddressables: 1
-  stripPlayer: 1
+  stripAssetBundles: 0
+  stripPlayer: 0
   skipNotRegisteredShaders: 0
   alwaysIncluded:
   - {fileID: 4800000, guid: a4d1ea7aa94a5564ea69003adc2a59f3, type: 3}
