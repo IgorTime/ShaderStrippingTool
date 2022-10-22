@@ -1,0 +1,499 @@
+Compiled shader: ASESampleShaders/AnimatedFireShaderFunction, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+Compiled shader: ASESampleShaders/AnimatedFireShaderFunction, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH
+Compiled shader: ASESampleShaders/Simple/SimpleRefraction, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH
+Compiled shader: ASESampleShaders/Simple/SimpleRefraction, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: ASESampleShaders/Simple/SimpleRefraction, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH
+Compiled shader: Custom/HealthChangeBar, pass: Default, stage: all, keywords INVERTED_ADDITIONAL_TEXTURE
+Compiled shader: Custom/HealthChangeBar, pass: Default, stage: all, keywords no keywords
+Compiled shader: Custom/RadialFill, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: CutoutDiffuse_Simple, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP INSTANCING_ON LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING
+Compiled shader: CutoutDiffuse_Simple, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: CutoutDiffuse_Simple, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING
+Compiled shader: CutoutDiffuse_Simple, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+Compiled shader: CutoutDiffuse_Simple, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTMAP_ON
+Compiled shader: CutoutDiffuse_Simple, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING
+Compiled shader: CutoutDiffuse_Simple, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: CutoutDiffuse_Simple, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON
+Compiled shader: CutoutDiffuse_Simple, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING
+Compiled shader: CutoutDiffuse_Simple, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH
+Compiled shader: CutoutDiffuse_Simple, pass: FORWARD, stage: all, keywords DIRECTIONAL INSTANCING_ON LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING
+Compiled shader: CutoutDiffuse_Simple, pass: FORWARD, stage: all, keywords DIRECTIONAL INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: CutoutDiffuse_Simple, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON
+Compiled shader: CutoutDiffuse_Simple, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING
+Compiled shader: CutoutDiffuse_Simple, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: GUI/Text Shader, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: Hidden/BlendModesOverlay, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: Hidden/BlitCopy, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: Hidden/Dof/DepthOfFieldHdr, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: Hidden/FastBlur, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: Hidden/Internal-Flare, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: Hidden/Internal-GUITexture, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: Hidden/Internal-Halo, pass: unnamed, stage: all, keywords FOG_EXP
+Compiled shader: Hidden/Internal-Halo, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: Hidden/InternalClear, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: Hidden/InternalErrorShader, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: Hidden/SimpleClear, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: Hidden/SunShaftsComposite, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: Hidden/TerrainEngine/Details/Billboard/WavingDoublePass, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: Hidden/TerrainEngine/Details/Billboard/WavingDoublePass, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: Hidden/TerrainEngine/Details/Billboard/WavingDoublePass, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: Hidden/TerrainEngine/Details/Billboard/WavingDoublePass, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: Hidden/TerrainEngine/Details/Billboard/WavingDoublePass, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH
+Compiled shader: Hidden/TerrainEngine/Details/BillboardWavingDoublePass, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH
+Compiled shader: Hidden/TerrainEngine/Details/WavingDoublePass, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: Hidden/TerrainEngine/Details/WavingDoublePass, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: Hidden/TerrainEngine/Details/WavingDoublePass, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON
+Compiled shader: Hidden/TerrainEngine/Details/WavingDoublePass, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: Hidden/TerrainEngine/Details/WavingDoublePass, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: Hidden/TerrainEngine/Details/WavingDoublePass, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON
+Compiled shader: Hidden/TerrainEngine/Details/WavingDoublePass, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: Hidden/TerrainEngine/Details/WavingDoublePass, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: Hidden/TerrainEngine/Details/WavingDoublePass, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH
+Compiled shader: Hidden/TerrainEngine/Splatmap/Diffuse-Base, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH
+Compiled shader: Hidden/TerrainEngine/Splatmap/Diffuse-BaseGen, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: Hidden/TerrainEngine/Splatmap/Standard-Base, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH
+Compiled shader: Hidden/TerrainEngine/Splatmap/Standard-BaseGen, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: Hidden/VacuumShaders/Fallback/VertexLit, pass: SHADOWCASTER, stage: all, keywords SHADOWS_DEPTH
+Compiled shader: Legacy Shaders/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_SHADOW_MIXING LIGHTPROBE_SH SHADOWS_SCREEN
+Compiled shader: Legacy Shaders/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON
+Compiled shader: Legacy Shaders/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON
+Compiled shader: Legacy Shaders/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: Legacy Shaders/Particles/Additive, pass: unnamed, stage: all, keywords FOG_EXP
+Compiled shader: Legacy Shaders/Particles/Additive, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: Legacy Shaders/Particles/Alpha Blended Premultiply, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: Legacy Shaders/Particles/Alpha Blended, pass: unnamed, stage: all, keywords FOG_EXP
+Compiled shader: Legacy Shaders/Particles/Alpha Blended, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: Legacy Shaders/Transparent/Cutout/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP INSTANCING_ON LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: Legacy Shaders/Transparent/Cutout/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL INSTANCING_ON LIGHTMAP_ON
+Compiled shader: Legacy Shaders/Transparent/Cutout/VertexLit, pass: Caster, stage: all, keywords INSTANCING_ON SHADOWS_DEPTH
+Compiled shader: Legacy Shaders/Transparent/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: Legacy Shaders/Transparent/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+Compiled shader: Legacy Shaders/Transparent/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH
+Compiled shader: Legacy Shaders/Transparent/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: Legacy Shaders/Transparent/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: Legacy Shaders/Transparent/Diffuse, pass: FORWARD, stage: all, keywords FOG_EXP2 POINT
+Compiled shader: Legacy Shaders/Transparent/Diffuse, pass: FORWARD, stage: all, keywords POINT
+Compiled shader: Legacy Shaders/VertexLit, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH
+Compiled shader: Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP INSTANCING_ON LIGHTMAP_SHADOW_MIXING LIGHTPROBE_SH SHADOWS_SCREEN
+Compiled shader: Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_SHADOW_MIXING LIGHTPROBE_SH SHADOWS_SCREEN
+Compiled shader: Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_SHADOW_MIXING LIGHTPROBE_SH SHADOWS_SCREEN VERTEXLIGHT_ON
+Compiled shader: Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+Compiled shader: Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH VERTEXLIGHT_ON
+Compiled shader: Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON
+Compiled shader: Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: Mobile/Particles/Additive, pass: unnamed, stage: all, keywords FOG_EXP
+Compiled shader: Mobile/Particles/Additive, pass: unnamed, stage: all, keywords FOG_EXP2
+Compiled shader: Mobile/Particles/Additive, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: Mobile/Particles/Alpha Blended, pass: unnamed, stage: all, keywords FOG_EXP
+Compiled shader: Mobile/Particles/Alpha Blended, pass: unnamed, stage: all, keywords FOG_EXP2
+Compiled shader: Mobile/Particles/Alpha Blended, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: Mobile/Unlit (Supports Lightmap), pass: unnamed, stage: all, keywords FOG_EXP
+Compiled shader: Mobile/Unlit (Supports Lightmap), pass: unnamed, stage: all, keywords no keywords
+Compiled shader: Mobile/VertexLit, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH
+Compiled shader: Nature/Terrain/Diffuse, pass: ShadowCaster, stage: all, keywords INSTANCING_ON SHADOWS_DEPTH
+Compiled shader: Nature/Terrain/Diffuse, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH
+Compiled shader: Nature/Terrain/Standard, pass: ShadowCaster, stage: all, keywords INSTANCING_ON SHADOWS_DEPTH
+Compiled shader: Nature/Terrain/Standard, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH
+Compiled shader: Oleg/BackgroundUnlit, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: Oleg/BlobShadow, pass: FORWARD, stage: all, keywords DIRECTIONAL INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: Oleg/BlobShadow, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: Oleg/CaveMashrooms_IllumCutout, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+Compiled shader: Oleg/CaveMashrooms_IllumCutout, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON
+Compiled shader: Oleg/CaveMashrooms_IllumCutout, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH
+Compiled shader: Oleg/CaveMashrooms_IllumCutout, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON
+Compiled shader: Oleg/CaveMashrooms_IllumCutout, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: Oleg/CaveMashrooms_IllumCutout, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH
+Compiled shader: Oleg/Caves, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON
+Compiled shader: Oleg/Caves, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: Oleg/Caves, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: Oleg/Caves, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON
+Compiled shader: Oleg/Caves, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: Oleg/Caves, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH
+Compiled shader: Oleg/Caves, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON
+Compiled shader: Oleg/Caves, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: Oleg/Caves, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: Oleg/Caves, pass: FORWARD, stage: all, keywords FOG_EXP POINT
+Compiled shader: Oleg/Caves, pass: FORWARD, stage: all, keywords FOG_EXP2 POINT
+Compiled shader: Oleg/Caves, pass: FORWARD, stage: all, keywords FOG_EXP2 POINT SHADOWS_CUBE
+Compiled shader: Oleg/Caves, pass: FORWARD, stage: all, keywords FOG_EXP2 SPOT
+Compiled shader: Oleg/Caves, pass: FORWARD, stage: all, keywords POINT
+Compiled shader: Oleg/Caves, pass: FORWARD, stage: all, keywords SPOT
+Compiled shader: Oleg/Caves, pass: ShadowCaster, stage: all, keywords SHADOWS_CUBE
+Compiled shader: Oleg/Caves, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH
+Compiled shader: Oleg/CavesEntrance, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: Oleg/CavesEntrance, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: Oleg/CavesEntrance, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+Compiled shader: Oleg/CavesEntrance, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON
+Compiled shader: Oleg/CavesEntrance, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: Oleg/CavesEntrance, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: Oleg/CavesEntrance, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH
+Compiled shader: Oleg/CavesEntrance, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON
+Compiled shader: Oleg/CavesEntrance, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: Oleg/CavesEntrance, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: Oleg/CavesEntrance, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: Oleg/CavesEntrance, pass: FORWARD, stage: all, keywords FOG_EXP2 SPOT
+Compiled shader: Oleg/CavesEntrance, pass: FORWARD, stage: all, keywords SPOT
+Compiled shader: Oleg/CavesEntrance, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH
+Compiled shader: Oleg/Characters_Body, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_SHADOW_MIXING LIGHTPROBE_SH SHADOWS_SCREEN
+Compiled shader: Oleg/Characters_Body, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_SHADOW_MIXING LIGHTPROBE_SH SHADOWS_SCREEN VERTEXLIGHT_ON
+Compiled shader: Oleg/Characters_Body, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+Compiled shader: Oleg/Characters_Body, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH VERTEXLIGHT_ON
+Compiled shader: Oleg/Characters_Body, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_SHADOW_MIXING LIGHTPROBE_SH SHADOWS_SCREEN
+Compiled shader: Oleg/Characters_Body, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH
+Compiled shader: Oleg/Characters_Body, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: Oleg/Characters_Body, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH VERTEXLIGHT_ON
+Compiled shader: Oleg/Characters_Body, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH
+Compiled shader: Oleg/Cutout_VertexColor_2Sided, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP INSTANCING_ON LIGHTMAP_SHADOW_MIXING LIGHTPROBE_SH SHADOWS_SCREEN
+Compiled shader: Oleg/Cutout_VertexColor_2Sided, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: Oleg/Cutout_VertexColor_2Sided, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+Compiled shader: Oleg/Cutout_VertexColor_2Sided, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: Oleg/Cutout_VertexColor_2Sided, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTPROBE_SH LOD_FADE_CROSSFADE
+Compiled shader: Oleg/Cutout_VertexColor_2Sided, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH
+Compiled shader: Oleg/Cutout_VertexColor_2Sided, pass: FORWARD, stage: all, keywords DIRECTIONAL INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: Oleg/Cutout_VertexColor_2Sided, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: Oleg/Cutout_VertexColor_2Sided, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH UNITY_PASS_SHADOWCASTER
+Compiled shader: Oleg/Cutout_VertexColor_2Sided_Simple, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP INSTANCING_ON LIGHTMAP_SHADOW_MIXING LIGHTPROBE_SH SHADOWS_SCREEN
+Compiled shader: Oleg/Cutout_VertexColor_2Sided_Simple, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: Oleg/Cutout_VertexColor_2Sided_Simple, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+Compiled shader: Oleg/Cutout_VertexColor_2Sided_Simple, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: Oleg/Cutout_VertexColor_2Sided_Simple, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH
+Compiled shader: Oleg/Cutout_VertexColor_2Sided_Simple, pass: FORWARD, stage: all, keywords DIRECTIONAL INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: Oleg/Cutout_VertexColor_2Sided_Simple, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: Oleg/Cutout_VertexColor_2Sided_Simple, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH UNITY_PASS_SHADOWCASTER
+Compiled shader: Oleg/Dissolving, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_SHADOW_MIXING LIGHTPROBE_SH SHADOWS_SCREEN
+Compiled shader: Oleg/Dissolving, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+Compiled shader: Oleg/Dissolving, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_SHADOW_MIXING LIGHTPROBE_SH SHADOWS_SCREEN
+Compiled shader: Oleg/Dissolving, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH
+Compiled shader: Oleg/Dissolving, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH
+Compiled shader: Oleg/ExitFromLocation, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: Oleg/ExitFromLocation, pass: FORWARD, stage: all, keywords POINT
+Compiled shader: Oleg/ExitFromLocation, pass: FORWARD, stage: all, keywords SPOT
+Compiled shader: Oleg/ExitFromLocation, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH
+Compiled shader: Oleg/EyeShadow, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+Compiled shader: Oleg/EyeShadow, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH
+Compiled shader: Oleg/EyeShadow, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: Oleg/FarSmokeStatic, pass: FORWARD, stage: all, keywords DIRECTIONAL INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: Oleg/FarSmokeStatic, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_SHADOW_MIXING LIGHTPROBE_SH SHADOWS_SCREEN
+Compiled shader: Oleg/FarSmokeStatic, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: Oleg/FarSmokeStatic, pass: ShadowCaster, stage: all, keywords INSTANCING_ON SHADOWS_DEPTH
+Compiled shader: Oleg/FarSmokeStatic, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH
+Compiled shader: Oleg/FernLeaf, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+Compiled shader: Oleg/FernLeaf, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH
+Compiled shader: Oleg/FernLeaf, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: Oleg/GM_Ways, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH
+Compiled shader: Oleg/GlobalMap_Colored_Appearence, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH
+Compiled shader: Oleg/GlobalMap_Colored_Appearence, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: Oleg/GlobalMap_Colored_Appearence, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH UNITY_PASS_SHADOWCASTER
+Compiled shader: Oleg/MultiplyColor, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: Oleg/OakTree_Billboards, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: Oleg/OakTree_Billboards, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: Oleg/OakTree_Billboards, pass: FORWARD, stage: all, keywords DIRECTIONAL INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: Oleg/OakTree_Billboards, pass: FORWARD, stage: all, keywords DIRECTIONAL INSTANCING_ON LIGHTPROBE_SH VERTEXLIGHT_ON
+Compiled shader: Oleg/OakTree_Billboards_TintColor, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: Oleg/OakTree_Billboards_TintColor, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: Oleg/OakTree_Billboards_TintColor, pass: FORWARD, stage: all, keywords DIRECTIONAL INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: Oleg/OakTree_Billboards_TintColor, pass: FORWARD, stage: all, keywords DIRECTIONAL INSTANCING_ON LIGHTPROBE_SH VERTEXLIGHT_ON
+Compiled shader: Oleg/OlegTwoSideFoliage, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: Oleg/OlegTwoSideFoliage, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: Oleg/OlegTwoSideFoliage, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_SHADOW_MIXING LIGHTPROBE_SH SHADOWS_SCREEN
+Compiled shader: Oleg/OlegTwoSideFoliage, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+Compiled shader: Oleg/OlegTwoSideFoliage, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: Oleg/OlegTwoSideFoliage, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: Oleg/OlegTwoSideFoliage, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH
+Compiled shader: Oleg/OlegTwoSideFoliage, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: Oleg/OlegTwoSideFoliage, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: Oleg/OlegTwoSideFoliage, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH
+Compiled shader: Oleg/Opaq_VertexColor, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: Oleg/Opaq_VertexColor, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+Compiled shader: Oleg/Opaq_VertexColor, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: Oleg/Opaq_VertexColor, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH
+Compiled shader: Oleg/Opaq_VertexColor, pass: FORWARD, stage: all, keywords DIRECTIONAL INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: Oleg/Opaq_VertexColor, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: Oleg/Opaq_VertexColor, pass: ShadowCaster, stage: all, keywords INSTANCING_ON SHADOWS_DEPTH
+Compiled shader: Oleg/Opaq_VertexColor, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH
+Compiled shader: Oleg/OpaqueDiffuseStandart, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP INSTANCING_ON LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: Oleg/OpaqueDiffuseStandart, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP INSTANCING_ON LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: Oleg/OpaqueDiffuseStandart, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: Oleg/OpaqueDiffuseStandart, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON
+Compiled shader: Oleg/OpaqueDiffuseStandart, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING LOD_FADE_CROSSFADE SHADOWS_SHADOWMASK
+Compiled shader: Oleg/OpaqueDiffuseStandart, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: Oleg/OpaqueDiffuseStandart, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: Oleg/OpaqueDiffuseStandart, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_SHADOW_MIXING LIGHTPROBE_SH LOD_FADE_CROSSFADE SHADOWS_SCREEN
+Compiled shader: Oleg/OpaqueDiffuseStandart, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_SHADOW_MIXING LIGHTPROBE_SH SHADOWS_SCREEN
+Compiled shader: Oleg/OpaqueDiffuseStandart, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+Compiled shader: Oleg/OpaqueDiffuseStandart, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH LOD_FADE_CROSSFADE
+Compiled shader: Oleg/OpaqueDiffuseStandart, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON
+Compiled shader: Oleg/OpaqueDiffuseStandart, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_SHADOW_MIXING LIGHTPROBE_SH SHADOWS_SCREEN
+Compiled shader: Oleg/OpaqueDiffuseStandart, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH
+Compiled shader: Oleg/OpaqueDiffuseStandart, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH LOD_FADE_CROSSFADE
+Compiled shader: Oleg/OpaqueDiffuseStandart, pass: FORWARD, stage: all, keywords DIRECTIONAL INSTANCING_ON LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: Oleg/OpaqueDiffuseStandart, pass: FORWARD, stage: all, keywords DIRECTIONAL INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: Oleg/OpaqueDiffuseStandart, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON
+Compiled shader: Oleg/OpaqueDiffuseStandart, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: Oleg/OpaqueDiffuseStandart, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_SHADOW_MIXING LIGHTPROBE_SH SHADOWS_SCREEN
+Compiled shader: Oleg/OpaqueDiffuseStandart, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: Oleg/OpaqueDiffuseStandart, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH LOD_FADE_CROSSFADE
+Compiled shader: Oleg/OpaqueDiffuseStandart, pass: FORWARD, stage: all, keywords FOG_EXP POINT
+Compiled shader: Oleg/OpaqueDiffuseStandart, pass: FORWARD, stage: all, keywords FOG_EXP2 POINT
+Compiled shader: Oleg/OpaqueDiffuseStandart, pass: FORWARD, stage: all, keywords FOG_EXP2 SPOT
+Compiled shader: Oleg/OpaqueDiffuseStandart, pass: FORWARD, stage: all, keywords POINT
+Compiled shader: Oleg/OpaqueDiffuseStandart, pass: FORWARD, stage: all, keywords SPOT
+Compiled shader: Oleg/OpaqueDiffuseStandart, pass: ShadowCaster, stage: all, keywords INSTANCING_ON SHADOWS_DEPTH
+Compiled shader: Oleg/OpaqueDiffuseStandart, pass: ShadowCaster, stage: all, keywords LOD_FADE_CROSSFADE SHADOWS_DEPTH
+Compiled shader: Oleg/OpaqueDiffuseStandart, pass: ShadowCaster, stage: all, keywords SHADOWS_CUBE
+Compiled shader: Oleg/OpaqueDiffuseStandart, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH
+Compiled shader: Oleg/OverGlow, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: Oleg/OverGlow, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH VERTEXLIGHT_ON
+Compiled shader: Oleg/Phone, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+Compiled shader: Oleg/Phone, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH
+Compiled shader: Oleg/Phone, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: Oleg/Phone, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH UNITY_PASS_SHADOWCASTER
+Compiled shader: Oleg/PineTrees_CrownShadow_Wind, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH
+Compiled shader: Oleg/PineTrees_Crown_Simple, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: Oleg/PineTrees_Crown_Simple, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+Compiled shader: Oleg/PineTrees_Crown_Simple, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTMAP_SHADOW_MIXING LIGHTPROBE_SH LOD_FADE_CROSSFADE SHADOWS_SCREEN
+Compiled shader: Oleg/PineTrees_Crown_Simple, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: Oleg/PineTrees_Crown_Simple, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTPROBE_SH LOD_FADE_CROSSFADE
+Compiled shader: Oleg/PineTrees_Crown_Simple, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH
+Compiled shader: Oleg/PineTrees_Crown_Simple, pass: FORWARD, stage: all, keywords DIRECTIONAL INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: Oleg/PineTrees_Crown_Simple, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: Oleg/PineTrees_Crown_Simple, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH UNITY_PASS_SHADOWCASTER
+Compiled shader: Oleg/PineTrees_Crown_Wind, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: Oleg/PineTrees_Crown_Wind, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+Compiled shader: Oleg/PineTrees_Crown_Wind, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTMAP_SHADOW_MIXING LIGHTPROBE_SH SHADOWS_SCREEN
+Compiled shader: Oleg/PineTrees_Crown_Wind, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: Oleg/PineTrees_Crown_Wind, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTPROBE_SH LOD_FADE_CROSSFADE
+Compiled shader: Oleg/PineTrees_Crown_Wind, pass: FORWARD, stage: all, keywords DIRECTIONAL INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: Oleg/PineTrees_Crown_Wind, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: Oleg/PineTrees_Crown_Wind, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH UNITY_PASS_SHADOWCASTER
+Compiled shader: Oleg/Tranparent2sided, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON
+Compiled shader: Oleg/Tranparent2sided, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING
+Compiled shader: Oleg/Tranparent2sided, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+Compiled shader: Oleg/Tranparent2sided, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON
+Compiled shader: Oleg/Tranparent2sided, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING
+Compiled shader: Oleg/Tranparent2sided, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH
+Compiled shader: Oleg/Tranparent2sided, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON
+Compiled shader: Oleg/Tranparent2sided, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING
+Compiled shader: Oleg/Tranparent2sided, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: Oleg/Tranparent2sided, pass: ShadowCaster, stage: all, keywords SHADOWS_CUBE UNITY_PASS_SHADOWCASTER
+Compiled shader: Oleg/Tranparent2sided, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH UNITY_PASS_SHADOWCASTER
+Compiled shader: Oleg/UnlitTransparentAnimated, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: Oleg/WaterFoamAnim, pass: FORWARD, stage: all, keywords DIRECTIONAL
+Compiled shader: Oleg/WaterFoamAnim, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: Oleg/ZogdashStoneStage1, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_SHADOW_MIXING LIGHTPROBE_SH SHADOWS_SCREEN
+Compiled shader: Oleg/ZogdashStoneStage1, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+Compiled shader: Oleg/ZogdashStoneStage1, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH
+Compiled shader: Oleg/ZogdashWhip, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: OlegWater, pass: FORWARD, stage: all, keywords DIRECTIONAL
+Compiled shader: OlegWater, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP
+Compiled shader: OlegWater, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+Compiled shader: OlegWater, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH
+Compiled shader: OlegWater, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: OlegWater_NoFog, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: Particles/Priority Additive (Soft), pass: unnamed, stage: all, keywords no keywords
+Compiled shader: Particles/Priority Additive, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: Particles/Priority Alpha Blended, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: Particles/Standard Unlit, pass: ShadowCaster, stage: all, keywords PROCEDURAL_INSTANCING_ON SHADOWS_CUBE _ALPHABLEND_ON
+Compiled shader: Particles/Standard Unlit, pass: ShadowCaster, stage: all, keywords SHADOWS_CUBE _ALPHABLEND_ON
+Compiled shader: Particles/Standard Unlit, pass: unnamed, stage: all, keywords FOG_EXP _ALPHABLEND_ON
+Compiled shader: Particles/Standard Unlit, pass: unnamed, stage: all, keywords FOG_EXP2 _ALPHABLEND_ON
+Compiled shader: Particles/Standard Unlit, pass: unnamed, stage: all, keywords _ALPHABLEND_ON
+Compiled shader: Skybox/Procedural, pass: unnamed, stage: all, keywords _SUNDISK_SIMPLE
+Compiled shader: Spine/Skeleton, pass: Caster, stage: all, keywords SHADOWS_DEPTH
+Compiled shader: Spine/SkeletonGraphic, pass: Normal, stage: all, keywords no keywords
+Compiled shader: Sprites/Default, pass: unnamed, stage: all, keywords ETC1_EXTERNAL_ALPHA
+Compiled shader: Sprites/Default, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: Standard, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+Compiled shader: Standard, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: Standard, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH
+Compiled shader: TerrainSurface, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: TerrainSurface, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: TerrainSurface, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+Compiled shader: TerrainSurface, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: TerrainSurface, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: TerrainSurface, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH
+Compiled shader: TextMeshPro/Distance Field, pass: unnamed, stage: all, keywords UNITY_UI_CLIP_RECT
+Compiled shader: TextMeshPro/Distance Field, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: TextMeshPro/Mobile/Distance Field, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: TextMeshPro/Sprite, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: Tree_Billboard_Simple, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: Tree_Billboard_Simple, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: Tree_Billboard_Simple, pass: FORWARD, stage: all, keywords DIRECTIONAL INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: UI/Default, pass: Default, stage: all, keywords UNITY_UI_ALPHACLIP
+Compiled shader: UI/Default, pass: Default, stage: all, keywords UNITY_UI_CLIP_RECT
+Compiled shader: UI/Default, pass: Default, stage: all, keywords no keywords
+Compiled shader: UIDefault, pass: Default, stage: all, keywords no keywords
+Compiled shader: UnityBuiltIn/Legacy Shaders/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: UnityBuiltIn/Legacy Shaders/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: UnityBuiltIn/Legacy Shaders/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_SHADOW_MIXING LIGHTPROBE_SH SHADOWS_SCREEN
+Compiled shader: UnityBuiltIn/Legacy Shaders/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON
+Compiled shader: UnityBuiltIn/Legacy Shaders/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH
+Compiled shader: UnityBuiltIn/Legacy Shaders/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON
+Compiled shader: UnityBuiltIn/Legacy Shaders/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: UnityBuiltIn/Legacy Shaders/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: UnityBuiltIn/Legacy Shaders/Particles/Additive, pass: unnamed, stage: all, keywords FOG_EXP
+Compiled shader: UnityBuiltIn/Legacy Shaders/Particles/Additive, pass: unnamed, stage: all, keywords FOG_EXP2
+Compiled shader: UnityBuiltIn/Legacy Shaders/Particles/Additive, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: UnityBuiltIn/Legacy Shaders/Particles/Alpha Blended Premultiply, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: UnityBuiltIn/Legacy Shaders/Particles/Alpha Blended, pass: unnamed, stage: all, keywords FOG_EXP
+Compiled shader: UnityBuiltIn/Legacy Shaders/Particles/Alpha Blended, pass: unnamed, stage: all, keywords FOG_EXP2
+Compiled shader: UnityBuiltIn/Legacy Shaders/Particles/Alpha Blended, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: UnityBuiltIn/Legacy Shaders/Particles/Multiply, pass: unnamed, stage: all, keywords FOG_EXP
+Compiled shader: UnityBuiltIn/Legacy Shaders/Particles/Multiply, pass: unnamed, stage: all, keywords FOG_EXP2
+Compiled shader: UnityBuiltIn/Legacy Shaders/Particles/Multiply, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Cutout/Bumped Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_SHADOW_MIXING LIGHTPROBE_SH SHADOWS_SCREEN
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Cutout/Bumped Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Cutout/Bumped Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Cutout/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP INSTANCING_ON LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Cutout/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP INSTANCING_ON LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Cutout/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP INSTANCING_ON LIGHTMAP_SHADOW_MIXING LIGHTPROBE_SH SHADOWS_SCREEN
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Cutout/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Cutout/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Cutout/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Cutout/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Cutout/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_SHADOW_MIXING LIGHTPROBE_SH SHADOWS_SCREEN
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Cutout/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Cutout/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTMAP_ON
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Cutout/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Cutout/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Cutout/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Cutout/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Cutout/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Cutout/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Cutout/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Cutout/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL INSTANCING_ON LIGHTMAP_ON
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Cutout/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL INSTANCING_ON LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Cutout/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Cutout/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Cutout/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Cutout/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Cutout/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Cutout/Diffuse, pass: FORWARD, stage: all, keywords POINT
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Cutout/VertexLit, pass: Caster, stage: all, keywords INSTANCING_ON SHADOWS_DEPTH
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Cutout/VertexLit, pass: Caster, stage: all, keywords SHADOWS_DEPTH
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: UnityBuiltIn/Legacy Shaders/Transparent/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: UnityBuiltIn/Legacy Shaders/VertexLit, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH
+Compiled shader: UnityBuiltIn/Mobile/Bumped Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_SHADOW_MIXING LIGHTPROBE_SH SHADOWS_SCREEN
+Compiled shader: UnityBuiltIn/Mobile/Bumped Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: UnityBuiltIn/Mobile/Bumped Specular, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_SHADOW_MIXING LIGHTPROBE_SH SHADOWS_SCREEN
+Compiled shader: UnityBuiltIn/Mobile/Bumped Specular, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP INSTANCING_ON LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP INSTANCING_ON LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP INSTANCING_ON LIGHTMAP_SHADOW_MIXING LIGHTPROBE_SH SHADOWS_SCREEN
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP INSTANCING_ON LIGHTPROBE_SH VERTEXLIGHT_ON
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_SHADOW_MIXING LIGHTPROBE_SH SHADOWS_SCREEN
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_SHADOW_MIXING LIGHTPROBE_SH SHADOWS_SCREEN VERTEXLIGHT_ON
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH VERTEXLIGHT_ON
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTMAP_ON
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTMAP_SHADOW_MIXING LIGHTPROBE_SH SHADOWS_SCREEN
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTPROBE_SH VERTEXLIGHT_ON
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_SHADOW_MIXING LIGHTPROBE_SH SHADOWS_SCREEN
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH VERTEXLIGHT_ON
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL INSTANCING_ON LIGHTMAP_ON
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL INSTANCING_ON LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL INSTANCING_ON LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL INSTANCING_ON LIGHTPROBE_SH VERTEXLIGHT_ON
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: UnityBuiltIn/Mobile/Diffuse, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH VERTEXLIGHT_ON
+Compiled shader: UnityBuiltIn/Mobile/Particles/Additive, pass: unnamed, stage: all, keywords FOG_EXP
+Compiled shader: UnityBuiltIn/Mobile/Particles/Additive, pass: unnamed, stage: all, keywords FOG_EXP2
+Compiled shader: UnityBuiltIn/Mobile/Particles/Additive, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: UnityBuiltIn/Mobile/Particles/Alpha Blended, pass: unnamed, stage: all, keywords FOG_EXP
+Compiled shader: UnityBuiltIn/Mobile/Particles/Alpha Blended, pass: unnamed, stage: all, keywords FOG_EXP2
+Compiled shader: UnityBuiltIn/Mobile/Particles/Alpha Blended, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: UnityBuiltIn/Mobile/Particles/Multiply, pass: unnamed, stage: all, keywords FOG_EXP
+Compiled shader: UnityBuiltIn/Mobile/Particles/Multiply, pass: unnamed, stage: all, keywords FOG_EXP2
+Compiled shader: UnityBuiltIn/Mobile/Particles/Multiply, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: UnityBuiltIn/Mobile/Unlit (Supports Lightmap), pass: unnamed, stage: all, keywords FOG_EXP
+Compiled shader: UnityBuiltIn/Mobile/Unlit (Supports Lightmap), pass: unnamed, stage: all, keywords FOG_EXP2
+Compiled shader: UnityBuiltIn/Mobile/Unlit (Supports Lightmap), pass: unnamed, stage: all, keywords no keywords
+Compiled shader: UnityBuiltIn/Mobile/VertexLit, pass: ShadowCaster, stage: all, keywords SHADOWS_CUBE
+Compiled shader: UnityBuiltIn/Mobile/VertexLit, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH
+Compiled shader: UnityBuiltIn/Skybox/6 Sided, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: UnityBuiltIn/Sprites/Default, pass: unnamed, stage: all, keywords ETC1_EXTERNAL_ALPHA
+Compiled shader: UnityBuiltIn/Sprites/Default, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: UnityBuiltIn/Standard, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_SHADOW_MIXING LIGHTPROBE_SH SHADOWS_SCREEN _ALPHATEST_ON _EMISSION _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: UnityBuiltIn/Standard, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH _ALPHATEST_ON _EMISSION _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: UnityBuiltIn/Standard, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH
+Compiled shader: UnityBuiltIn/Standard, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: UnityBuiltIn/Standard, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH _ALPHATEST_ON _EMISSION _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: UnityBuiltIn/Standard, pass: FORWARD_DELTA, stage: all, keywords POINT _ALPHATEST_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: UnityBuiltIn/Standard, pass: ShadowCaster, stage: all, keywords SHADOWS_CUBE _ALPHATEST_ON _METALLICGLOSSMAP
+Compiled shader: UnityBuiltIn/Standard, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH
+Compiled shader: UnityBuiltIn/Standard, pass: ShadowCaster, stage: all, keywords SHADOWS_DEPTH _ALPHATEST_ON _METALLICGLOSSMAP
+Compiled shader: UnityBuiltIn/Unlit/Color, pass: unnamed, stage: all, keywords FOG_EXP
+Compiled shader: UnityBuiltIn/Unlit/Color, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: UnityBuiltIn/Unlit/Texture, pass: unnamed, stage: all, keywords FOG_EXP2
+Compiled shader: UnityBuiltIn/Unlit/Texture, pass: unnamed, stage: all, keywords no keywords
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/3 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/3 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/3 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/3 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/3 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/3 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/3 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/3 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/4 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/4 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/4 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/5 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/5 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/5 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/5 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/5 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/5 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/6 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/6 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/6 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/6 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/6 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/6 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/6 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/6 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/6 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/7 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/7 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/7 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/7 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/7 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/7 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/8 Textures Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/8 Textures Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/8 Textures Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/8 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/8 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/8 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/8 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/8 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/8 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/Legacy Shaders/Diffuse/8 Textures, pass: FORWARD, stage: all, keywords POINT
+Compiled shader: VacuumShaders/Terrain To Mesh/One Directional Light/Diffuse/2 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/One Directional Light/Diffuse/2 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/One Directional Light/Diffuse/2 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN SHADOWS_SHADOWMASK
+Compiled shader: VacuumShaders/Terrain To Mesh/One Directional Light/Diffuse/2 Textures, pass: FORWARD, stage: all, keywords DIRECTIONAL LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK
+Compiled shader: ZogdashFog, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+Compiled shader: ZogdashFogOpaq, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH
+Compiled shader: ZogdashFogWave, pass: FORWARD, stage: all, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dbe1591528448a1b3fce6dc3b2526ff, type: 3}
+  m_Name: ShaderStripperSettings
+  m_EditorClassIdentifier: 
+  stripAddressables: 1
+  stripPlayer: 1
+  skipNotRegisteredShaders: 0
+  alwaysIncluded:
+  - {fileID: 4800000, guid: a4d1ea7aa94a5564ea69003adc2a59f3, type: 3}
+  alwaysIncludedByName: []
+  alwaysExcluded: []
+  alwaysExcludedByName:
+  - Hidden/TerrainEngine/Details/Vertexlit
+  manualHandledList: []
+  playerLog: {fileID: 4900000, guid: 3311396954c43af41a080e5e5f65505a, type: 3}
+  generateOutputShaderVariantCollection: 1
+  generateReport: 1

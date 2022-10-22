@@ -1,0 +1,9 @@
+ShaderStripper
+Shaders stripping during Addressables build
+
+
+-----Summary-----
+Total shaders: 0
+Total processed SV: 0
+Total passed SV: 0
+Total stripped SV: 0
