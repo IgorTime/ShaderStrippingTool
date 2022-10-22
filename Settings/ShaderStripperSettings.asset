@@ -12,15 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2dbe1591528448a1b3fce6dc3b2526ff, type: 3}
   m_Name: ShaderStripperSettings
   m_EditorClassIdentifier: 
-  stripAssetBundles: 0
-  stripPlayer: 0
+  stripAssetBundles: 1
+  stripPlayer: 1
   skipNotRegisteredShaders: 0
-  alwaysIncluded:
-  - {fileID: 4800000, guid: a4d1ea7aa94a5564ea69003adc2a59f3, type: 3}
+  alwaysIncluded: []
   alwaysIncludedByName: []
   alwaysExcluded: []
-  alwaysExcludedByName:
-  - Hidden/TerrainEngine/Details/Vertexlit
+  alwaysExcludedByName: []
   manualHandledList: []
   playerLog: {fileID: 4900000, guid: 3311396954c43af41a080e5e5f65505a, type: 3}
   generateReport: 1
